@@ -15,4 +15,4 @@ there is info from master branch
 
 Hello from githab!
 
-Hello 
+Hello from Arthur
